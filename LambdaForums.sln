@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaForums", "LambdaForums\LambdaForums.csproj", "{1DDE2F85-AB0F-44FC-B648-370EB0FA7BB1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaForums.Data", "LambdaForums.Data\LambdaForums.Data.csproj", "{624B3227-6A6A-4582-B4C0-1C621785CE44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaForums", "LambdaForums\LambdaForums.csproj", "{8EDD14CA-2054-43FC-8F92-C0039682A883}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1DDE2F85-AB0F-44FC-B648-370EB0FA7BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DDE2F85-AB0F-44FC-B648-370EB0FA7BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DDE2F85-AB0F-44FC-B648-370EB0FA7BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DDE2F85-AB0F-44FC-B648-370EB0FA7BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624B3227-6A6A-4582-B4C0-1C621785CE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624B3227-6A6A-4582-B4C0-1C621785CE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624B3227-6A6A-4582-B4C0-1C621785CE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624B3227-6A6A-4582-B4C0-1C621785CE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDD14CA-2054-43FC-8F92-C0039682A883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDD14CA-2054-43FC-8F92-C0039682A883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDD14CA-2054-43FC-8F92-C0039682A883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDD14CA-2054-43FC-8F92-C0039682A883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
