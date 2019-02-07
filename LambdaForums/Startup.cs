@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using LambdaForums.Models;
 using LambdaForums.Services;
 using LambdaForums.Data;
+using LambdaForums.Data.Models;
 
 namespace LambdaForums
 {
