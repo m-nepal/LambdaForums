@@ -7,3 +7,5 @@ C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Data
 C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Data\bin\Debug\netcoreapp2.2\LambdaForums.Data.pdb
 C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.2\LambdaForums.Data.dll
 C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Data\obj\Debug\netcoreapp2.2\LambdaForums.Data.pdb
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Data\bin\Debug\netcoreapp2.2\LambdaForums.Data.runtimeconfig.json
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Data\bin\Debug\netcoreapp2.2\LambdaForums.Data.runtimeconfig.dev.json

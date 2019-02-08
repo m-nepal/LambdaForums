@@ -1,0 +1,12 @@
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.2\LambdaForums.Service.deps.json
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.2\LambdaForums.Service.dll
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.2\LambdaForums.Service.pdb
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.2\LambdaForums.Data.dll
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.2\LambdaForums.Data.pdb
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.2\LambdaForums.Service.csprojAssemblyReference.cache
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.2\LambdaForums.Service.csproj.CoreCompileInputs.cache
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.2\LambdaForums.Service.AssemblyInfoInputs.cache
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.2\LambdaForums.Service.AssemblyInfo.cs
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.2\LambdaForums.Service.csproj.CopyComplete
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.2\LambdaForums.Service.dll
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.2\LambdaForums.Service.pdb
