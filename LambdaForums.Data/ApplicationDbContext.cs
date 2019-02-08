@@ -1,7 +1,10 @@
-﻿using LambdaForums.Data.Models;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using LambdaForums.Data.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Design;
 
 namespace LambdaForums.Data
 {
@@ -10,21 +13,18 @@ namespace LambdaForums.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
-        }     
-
+        }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
         public DbSet<Forum> Forums { get; set; }
         public DbSet<Post> Posts { get; set; }
         public DbSet<PostReply> PostReplies { get; set; }
-    }
-    public class ApplicationDbContextFactory : IDesignTimeDbContextFactory<ApplicationDbContext>
-    {
-        public ApplicationDbContext CreateDbContext(string[] args)
-        {
-            var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
-            optionsBuilder.UseSqlite("Data Source=blog.db");
 
-            return new ApplicationDbContext(optionsBuilder.Options);
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+            // Customize the ASP.NET Identity model and override the defaults if needed.
+            // For example, you can rename the ASP.NET Identity table names and more.
+            // Add your customizations after calling base.OnModelCreating(builder);
         }
     }
 }
