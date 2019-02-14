@@ -15142,11 +15142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MNepal.LIBERTY\\Source\\repos\\LambdaForums\\LambdaForums\\LambdaForums\\LambdaForums.csproj",
+      "projectUniqueName": "C:\\Users\\MNepal.LIBERTY\\Source\\Repos\\LambdaForums\\LambdaForums\\LambdaForums\\LambdaForums.csproj",
       "projectName": "LambdaForums",
-      "projectPath": "C:\\Users\\MNepal.LIBERTY\\Source\\repos\\LambdaForums\\LambdaForums\\LambdaForums\\LambdaForums.csproj",
+      "projectPath": "C:\\Users\\MNepal.LIBERTY\\Source\\Repos\\LambdaForums\\LambdaForums\\LambdaForums\\LambdaForums.csproj",
       "packagesPath": "C:\\Users\\MNepal.LIBERTY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MNepal.LIBERTY\\Source\\repos\\LambdaForums\\LambdaForums\\LambdaForums\\obj\\",
+      "outputPath": "C:\\Users\\MNepal.LIBERTY\\Source\\Repos\\LambdaForums\\LambdaForums\\LambdaForums\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15165,11 +15165,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\MNepal.LIBERTY\\Source\\repos\\LambdaForums\\LambdaForums\\LambdaForums.Data\\LambdaForums.Data.csproj": {
-              "projectPath": "C:\\Users\\MNepal.LIBERTY\\Source\\repos\\LambdaForums\\LambdaForums\\LambdaForums.Data\\LambdaForums.Data.csproj"
+            "C:\\Users\\MNepal.LIBERTY\\Source\\Repos\\LambdaForums\\LambdaForums\\LambdaForums.Data\\LambdaForums.Data.csproj": {
+              "projectPath": "C:\\Users\\MNepal.LIBERTY\\Source\\Repos\\LambdaForums\\LambdaForums\\LambdaForums.Data\\LambdaForums.Data.csproj"
             },
-            "C:\\Users\\MNepal.LIBERTY\\Source\\repos\\LambdaForums\\LambdaForums\\LambdaForums.Service\\LambdaForums.Service.csproj": {
-              "projectPath": "C:\\Users\\MNepal.LIBERTY\\Source\\repos\\LambdaForums\\LambdaForums\\LambdaForums.Service\\LambdaForums.Service.csproj"
+            "C:\\Users\\MNepal.LIBERTY\\Source\\Repos\\LambdaForums\\LambdaForums\\LambdaForums.Service\\LambdaForums.Service.csproj": {
+              "projectPath": "C:\\Users\\MNepal.LIBERTY\\Source\\Repos\\LambdaForums\\LambdaForums\\LambdaForums.Service\\LambdaForums.Service.csproj"
             }
           }
         }

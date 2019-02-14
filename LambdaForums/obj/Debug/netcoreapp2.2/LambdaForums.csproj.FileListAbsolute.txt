@@ -61,3 +61,4 @@ C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums\obj\
 C:\Users\MNepal.LIBERTY\Source\repos\LambdaForums\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.2\Razor\Views\Forum\Index.g.cshtml.cs
 C:\Users\MNepal.LIBERTY\Source\repos\LambdaForums\LambdaForums\LambdaForums\bin\Debug\netcoreapp2.2\LambdaForums.Service.dll
 C:\Users\MNepal.LIBERTY\Source\repos\LambdaForums\LambdaForums\LambdaForums\bin\Debug\netcoreapp2.2\LambdaForums.Service.pdb
+C:\Users\MNepal.LIBERTY\Source\Repos\LambdaForums\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.2\Razor\Views\Forum\Topic.g.cshtml.cs
